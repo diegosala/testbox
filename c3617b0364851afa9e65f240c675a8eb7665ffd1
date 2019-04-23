@@ -1,0 +1,1 @@
+{"jobID":"f8e59e02-ab0c-e462-6fa9-f1f559b0e5bb","spec":{"type":"policy","cause":{"Message":"","User":"Diego Sala \u003cdiego45@gmail.com\u003e"},"spec":{"box:deployment/testbox":{"add":{"tag_all":"glob:release-*"},"remove":{}}}},"result":null}
