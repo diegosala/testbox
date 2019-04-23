@@ -25,5 +25,5 @@ spec:
     spec:
       containers:
       - name: testbox
-        image: 156194757130.dkr.ecr.us-east-1.amazonaws.com/diegotest:2
+        image: 156194757130.dkr.ecr.us-east-1.amazonaws.com/diegotest:4
         imagePullPolicy: IfNotPresent
